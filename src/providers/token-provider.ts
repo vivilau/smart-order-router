@@ -341,7 +341,7 @@ export const DAI_POLYGON = new Token(
 //polygon mumbai tokens
 export const WMATIC_POLYGON_MUMBAI = new Token(
   ChainId.POLYGON_MUMBAI,
-  '0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889',
+  '0x4bdD95007a0f3726c7EB2C47271412b68694b9F2',
   18,
   'WMATIC',
   'Wrapped MATIC'
